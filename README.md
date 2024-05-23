@@ -19,9 +19,10 @@ To get started, login to Fides Cloud here: https://fides-ethyca-interview.us.fid
 
 ## Setting the Scene
 
-You're an Ethyca Forward Deployed Privacy Engineer who has been helping a customer integrate Fides into their own web app. This customer is the "Cookie House", a small online retailer of high-quality cookies - the edible kind, like "Choco Chip", not the ones that track your browser across the Internet!
+You're an Ethyca Forward Deployed Privacy Engineer who has been helping a customer integrate Fides into their own web app. This customer is the "Cookie House", a small online retailer of high-quality cookies - the edible kind, like "Choco Chip", not the ones that track your browser across the Internet! Their website looks something like this, for reference:
+![image](https://github.com/ethyca/fde-takehome/assets/1834295/287be4cd-b20f-40bc-b0ca-9e3745282d63)
 
-Right now, this customer has been focused on configuring their "Data Inventory" - the list of systems they use to process user data. Their goal is to ensure all their key infrastructure is added to Fides so that they can run privacy reports for their compliance team.
+Right now, this customer has been focused on configuring their Fides "Data Inventory" - the list of systems they use to process user data. Their goal is to ensure all their key infrastructure is added to Fides so that they can run privacy reports for their compliance team.
 
 Last week, you walked them through the following:
 - Setting up their account in Fides Cloud
@@ -29,6 +30,9 @@ Last week, you walked them through the following:
 - Showing them the (live) Fides OpenAPI page for their instance: https://fides-ethyca-interview.us.fides.ethyca.com/docs
 
 During the call, their Engineering team asked if it was possible to use the Fides API programmatically create & update Systems in the inventory from their internal applications, and you pointed them to the Fides API Developer Docs to get started.
+
+Once you were finished, the data inventory was looking pretty good and included their main system, databases, and apps:
+![image](https://github.com/ethyca/fde-takehome/assets/1834295/33ea8b90-a487-4381-9396-243fe88b37e9)
 
 ## Help Needed!
 
@@ -88,17 +92,17 @@ Help the customer! You can use any of your preferred tools, languages, editors, 
 - Writing style, code comments, and general readability matter despite this being a test!
 
 ## Delivery
-- Once completed, please include the following:
-  1. Your email reply to the customer
-  2. Any example scripts/notebooks/collections/etc. you wrote along the way
-  3. Your suggested tickets (optionally!)
-  4. A brief README summarizing:
-  - How much time you spent working on the challenge,
-  - Any assumptions you made,
-  - Any tricky issues you ran into,
-  - Anything else you want us to know about,
-  - Any feedback you have on this technical challenge -- we care deeply about our hiring process here at Ethyca, and about the engineers who go through it (that's you!) -- we wholeheartedly promise any feedback will be met with a warm thank you!
-- The assignment can be published and shared with us as a .zip file to the Ethyca employee who sent you this task, or via any code sharing platform; please just ensure no secret credentials are disclosed publicly
-- We'll review your submission in advance of your debrief interview, and look forward to talking to you about it!
+Once completed, please include the following:
+1. Your email reply to the customer
+2. Any example scripts/notebooks/collections/etc. you wrote along the way
+3. Your suggested tickets (optionally!)
+4. A brief README summarizing:
+    - How much time you spent working on the challenge,
+    - Any assumptions you made,
+    - Any tricky issues you ran into,
+    - Anything else you want us to know about,
+    - Any feedback you have on this technical challenge -- we care deeply about our hiring process here at Ethyca, and about the engineers who go through it (that's you!) -- we wholeheartedly promise any feedback will be met with a warm thank you!
+
+The assignment can be published and shared with us as a .zip file to the Ethyca employee who sent you this task, or via any code sharing platform; please just ensure no secret credentials are disclosed publicly. We'll review your submission in advance of your debrief interview, and look forward to talking to you about it!
 
 Good Luck!
